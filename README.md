@@ -15,3 +15,5 @@ Outside of work I enjoy Scuba diving, Rugby, and Modular Synthesisers.
   <a href="https://discordapp.com/users/405651072460259339"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:james.campbell@tanti.org.uk"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=theref&count_private=true&show_icons=true)
