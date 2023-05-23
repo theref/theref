@@ -2,7 +2,7 @@
 I'm interested in trustless, open-source, and decentralized technology.
 I'm an experienced Full-Stack Developer, Blockchain Engineer, and DevOps Engineer.
 
-Outside of work I enjoy Scuba diving, Rugby, and Modular Synthesisers.
+Outside of work I enjoy Scuba diving, Bouldering, and Modular Synthesisers.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white">
